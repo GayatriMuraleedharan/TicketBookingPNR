@@ -1,0 +1,14 @@
+PNR				:	BD_2022-9-8_0
+TrainNo			:	1001
+Train Name		:	Shatabdi Express
+From			:	Bangalore
+To				:	Delhi
+Travel Date		:	8/9/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+ABC		22		Female		2500.0
+
+Total Price: 2500.0
